@@ -1,0 +1,63 @@
+*{
+    margin:0 auto;
+    padding: 0 auto;
+}
+.karkas{
+    width: 1350px;
+}
+header{
+    margin: 10px 0;
+}
+header h1{
+    margin-bottom:5px ;
+}
+hr{
+    margin-bottom:5px ;
+}
+nav ul li{
+    list-style: none;
+    float: left; 
+    border-right: 2px solid;
+    padding: 3px 10px;
+    margin: 3px 0
+} 
+.markaz{
+    margin-top: 20px; 
+    width: 1200px
+}
+h2{
+    text-align: center;
+    margin-bottom: 10px
+}
+
+.newsimg{
+    width:150px ; height: 150px;
+    display:inline-block;
+}
+tr>td{
+    padding:2px 50px;
+    font-size: 24px;
+}
+.newsimg2{
+    width:350px ; height: 350px;
+    display:inline-block;
+}
+.markaz>img{
+    float: left;
+    padding-right:25px; 
+}
+.markaz p{
+    font-size: 24px;
+    margin-top: 20px;
+}
+.clear{
+    clear: both;
+}
+.about>img{
+    float: left;
+    padding-right:25px; 
+}
+.about p{
+    margin-top: 50px;
+    font-size:24px; 
+}
